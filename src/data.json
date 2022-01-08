@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "step": "Click on the four colored squares at the top left of the screen. This will toke you to the Work Flow Guide screen.",
+        "check": false
+    },
+    {
+        "id":2,
+        "step": "Select Preventative Action if it is not already selected.",
+        "check": false
+    },
+    {
+        "id":3,
+        "step": "Click Reagent Preparing tab and click Reagernt Lood List to print list of consumables and reagents required for another 24 hours of operation.",
+        "check": false
+    },
+    {
+        "id":4,
+        "step": "Before pulling reagents, consult Reagent tab for status of reagents onboard.",
+        "check": false
+    }
+]
